@@ -31,3 +31,11 @@ Supervisor: Diarmuid
 + Niall needed more time to develop the prototype due to deadlines for other modules' assignments. This is __a severe setback__, as the prototype is the primary deliverable for semester 1. 
 + The focus for next week is to start working on the prototype.
 + Niall discovered a library for reading eBook metadata, but it's Java-based. If a Go-to-Java bridge exists, this could be useful,
+
+###  Tue. Nov. 15th (Meeting)
++ Niall successfully created a basic Podman image built on a Windows base.
++ The target for next week is to extend this in two aspects:
+   1. Have a simple Go program that searches a hard-coded pathname on the host OS and reports the e-book files found there.
+   1. Install and run a web server (e.g. Apache) that serves a simple React app.
++ Once the above is accomplished, the next step will be to have the app act as a client for the Go program.
++ The assignment schedule for the other modules may lighten at the end of this week and allow more time to work on the project prototype.
