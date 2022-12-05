@@ -39,3 +39,13 @@ Supervisor: Diarmuid
    1. Install and run a web server (e.g. Apache) that serves a simple React app.
 + Once the above is accomplished, the next step will be to have the app act as a client for the Go program.
 + The assignment schedule for the other modules may lighten at the end of this week and allow more time to work on the project prototype.
+
+###  Thu. Nov. 24th (Meeting)
++ Following a general discussion of the application's architecture, Niall has a clearer understanding of its elements and their roles. Niall misunderstood the purpose of the Golang element - it will be a Web API rather than a 'script to configure the React client'. 
++ We discussed the TOC of the semester-one report, which I provided earlier in the week.
++ Niall needs to look at the Gin framework as a possible enabler for the application's Web API element.
+
+###  Thu. Dec. 1th (Meeting)
++ Niall has made good progress on a skeleton, standalone prototype consisting of a React App, Gin-based web API, and Go library for extracting metadata from an ePub file. 
++ The next target is to run the web API element inside a container and test it with Postman - the React app element is sidelined for now. 
+
