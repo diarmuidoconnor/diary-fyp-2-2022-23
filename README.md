@@ -49,3 +49,6 @@ Supervisor: Diarmuid
 + Niall has made good progress on a skeleton, standalone prototype consisting of a React App, Gin-based web API, and Go library for extracting metadata from an ePub file. 
 + The next target is to run the web API element inside a container and test it with Postman - the React app element is sidelined for now. 
 
+###  Thu. Dec. 8th (Meeting)
++ Prototype update - Web API now running inside a Podman container and responds to a HTTP Get with metadata about a local ePub file.
++ Niall must continue with the prototype and also commence writing the semester one report, with drafts of selected chapters for next week.
