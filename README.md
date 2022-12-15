@@ -52,3 +52,6 @@ Supervisor: Diarmuid
 ###  Thu. Dec. 8th (Meeting)
 + Prototype update - Web API now running inside a Podman container and responds to a HTTP Get with metadata about a local ePub file.
 + Niall must continue with the prototype and also commence writing the semester one report, with drafts of selected chapters for next week.
+
+###  Thu. Dec. 14th (Email)
++ Received first draft of semester 1 report and I replied with some suggestions.
